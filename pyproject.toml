@@ -15,6 +15,9 @@ dev = [
   "tox>=4.27.0,<5"
 ]
 
+[tool.uv.sources]
+ab-test-fixtures  = { git = "https://@github.com/auth-broker/package-test-fixtures", rev = "0.1.0" }
+
 [project]
 authors = [{email = "mattcoul7@gmail.com", name = "Matt Coulter"}]
 dependencies = []
