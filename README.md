@@ -13,8 +13,6 @@ The template repository for creating python packages, shared across auth-broker.
 ![Coverage](https://img.shields.io/badge/Cov-Reports-08979C?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/Actions-CI%2FCD-F7B500?style=for-the-badge&logo=github-actions)
 ![PyPI](https://img.shields.io/badge/PyPI-Publish-6E40C9?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Builds-2496ED?style=for-the-badge&logo=docker)
-![Compose](https://img.shields.io/badge/Compose-Local-2496ED?style=for-the-badge&logo=docker)
 ![Makefile](https://img.shields.io/badge/Makefile-Scripts-F7B500?style=for-the-badge)
 
 🦜🕸️
