@@ -33,9 +33,6 @@ ______________________________________________________________________
   / versioning etc.
 - \[ \] Update `README.md` references of `python-package-template` ->
   `your-package-name`
-- \[ \] Add your pypi credentials as `HTTP_BASIC_PYPI_USERNAME` &
-  `HTTP_BASIC_PYPI_PASSWORD` repository variables / secrets respectively. These
-  will be need for the pypi publish cd workflow to succeed.
 - \[ \] Remove this section
 
 ______________________________________________________________________
