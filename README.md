@@ -25,15 +25,15 @@ ______________________________________________________________________
 
 ## Template Checklist
 
-- \[ \] Rename module `src/ab_core/template` ->
+- [ ] Rename module `src/ab_core/template` ->
   `src/ab_core/your_package_name`
-- \[ \] Rename tests module `src/ab_core/template` ->
+- [ ] Rename tests module `src/ab_core/template` ->
   `src/ab_core/your_package_name`
-- \[ \] Update `pyproject.toml`: `[project]` section based on your package name
+- [ ] Update `pyproject.toml`: `[project]` section based on your package name
   / versioning etc.
-- \[ \] Update `README.md` references of `python-package-template` ->
+- [ ] Update `README.md` references of `python-package-template` ->
   `your-package-name`
-- \[ \] Remove this section
+- [ ] Remove this section
 
 ______________________________________________________________________
 
